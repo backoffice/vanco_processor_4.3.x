@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <extension key="vanco.directpayment.processor" type="payment">
- <downloadUrl>http://lamp1.axiaconnect.com/~filesbac/vanco/vanco.directpayment.processor_Civi4.2.x.zip</downloadUrl>
+ <downloadUrl>https://github.com/backoffice/vanco_processor_4.3.x/archive/master.zip</downloadUrl>
   <file>Vanco</file>
   <name>Vanco</name>
   <description>Vanco Payment Processor</description>
