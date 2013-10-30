@@ -1,0 +1,39 @@
+<VancoWS>
+  <Auth>
+    <RequestType>EFTAddCompleteTransaction</RequestType>
+    <RequestID>RequestID</RequestID>
+    <RequestTime>2007-04-15 14:10:13</RequestTime>
+    <SessionID>sessionID</SessionID>
+    <Version>2</Version>
+  </Auth>
+  <Request>
+    <RequestVars>
+		<CustomerID></CustomerID>		
+		<CustomerName></CustomerName>
+		<CustomerAddress1></CustomerAddress1>
+		<CustomerAddress2></CustomerAddress2>
+		<CustomerCity></CustomerCity>
+		<CustomerState></CustomerState>
+		<CustomerZip></CustomerZip>
+		<CustomerPhone></CustomerPhone>
+		<PaymentMethodRef></PaymentMethodRef>
+		<AccountType></AccountType>
+		<AccountNumber></AccountNumber>
+		<CardCVV2></CardCVV2>
+		<CardBillingName></CardBillingName>
+		<CardExpMonth></CardExpMonth>
+		<CardExpYear></CardExpYear>
+		<SameCCBillingAddrAsCust></SameCCBillingAddrAsCust>
+		<CardBillingAddr1></CardBillingAddr1>
+		<CardBillingAddr2></CardBillingAddr2>
+		<CardBillingCity></CardBillingCity>
+		<CardBillingState></CardBillingState>
+		<CardBillingZip></CardBillingZip>
+		<Amount></Amount>
+		<StartDate></StartDate>
+		<EndDate></EndDate>
+		<FrequencyCode></FrequencyCode>
+		<TransactionTypeCode></TransactionTypeCode>
+    </RequestVars>
+  </Request>
+</VancoWS>

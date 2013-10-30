@@ -1,0 +1,25 @@
+<VancoWS>
+  <Auth>
+    <RequestType>EFTAddEditPaymentMethod</RequestType>
+    <RequestID>RequestID</RequestID>
+    <RequestTime>2007-04-15 14:10:13</RequestTime>
+    <SessionID>sessionID</SessionID>
+    <Version>2</Version>
+  </Auth>
+  <Request>
+    <RequestVars>
+      <CustomerID></CustomerID>	
+      <PaymentMethodRef></PaymentMethodRef>
+      <AccountType></AccountType>
+      <AccountNumber></AccountNumber>
+      <RoutingNumber></RoutingNumber>
+      <CardExpMonth></CardExpMonth>
+      <CardExpYear></CardExpYear>
+      <CardBillingName></CardBillingName>
+      <CardBillingAddr1></CardBillingAddr1>
+      <CardBillingCity></CardBillingCity>
+      <CardBillingState></CardBillingState>
+      <CardBillingZip></CardBillingZip>
+    </RequestVars>
+  </Request>
+</VancoWS>

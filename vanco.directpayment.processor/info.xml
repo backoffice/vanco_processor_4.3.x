@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <extension key="vanco.directpayment.processor" type="payment">
+ <downloadUrl>http://lamp1.axiaconnect.com/~filesbac/vanco/vanco.directpayment.processor_Civi4.2.x.zip</downloadUrl>
+  <file>Vanco</file>
+  <name>Vanco</name>
+  <description>Vanco Payment Processor</description>
+  <urls>
+    <url desc="Main Extension Page"></url>
+    <url desc="Documentation"></url>
+    <url desc="Support"></url>
+    <url desc="Licensing"></url>
+  </urls>
+  <license></license>
+  <maintainer>
+    <author>Backoffice Thinking</author>
+    <email>info@backofficethinking.com</email>
+  </maintainer>
+  <releaseDate>2013-10-30</releaseDate>
+  <version>2.0</version>
+  <develStage></develStage>
+  <compatibility><ver>4.3</ver></compatibility>
+  <comments></comments>
+  <typeInfo>
+   <userNameLabel>User Id</userNameLabel>
+   <passwordLabel>password</passwordLabel>
+   <signatureLabel></signatureLabel>
+   <subjectLabel></subjectLabel>
+   <urlSiteDefault>https://www.vancoservices.com</urlSiteDefault>
+   <urlApiDefault>https://www.vancoservices.com/cgi-bin/ws2.vps</urlApiDefault>
+   <urlRecurDefault></urlRecurDefault>
+   <urlSiteTestDefault>https://www.vancodev.com</urlSiteTestDefault>
+   <urlApiTestDefault>https://www.vancodev.com/cgi-bin/wstest2.vps</urlApiTestDefault>
+   <urlRecurTestDefault></urlRecurTestDefault>
+   <urlButtonDefault></urlButtonDefault>
+   <urlButtonTestDefault></urlButtonTestDefault>
+   <billingMode>form</billingMode>
+   <isRecur>1</isRecur>
+   <paymentType>1</paymentType>
+  </typeInfo>
+</extension>

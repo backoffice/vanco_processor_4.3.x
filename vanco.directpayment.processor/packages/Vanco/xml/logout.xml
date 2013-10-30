@@ -1,0 +1,14 @@
+<VancoWS>
+	<Auth>
+		<RequestType>Logout</RequestType>
+		<RequestID>RequestID</RequestID>
+		<RequestTime>2007-04-15 14:10:13</RequestTime>
+		<SessionID></SessionID>
+		<Version>2</Version>
+	</Auth>
+	<Request>
+		<RequestVars>
+			<Logout></Logout>
+		</RequestVars>
+	</Request>
+</VancoWS>

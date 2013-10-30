@@ -1,0 +1,7 @@
+
+name = Vanco Bank Payment Processor
+description = "Vanco Bank Payment Processor."
+dependencies[] = civicrm
+package = CiviCRM
+core = 7.x
+version = 4.3.x
